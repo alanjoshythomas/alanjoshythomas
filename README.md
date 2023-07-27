@@ -6,6 +6,7 @@ Welcome to my GitHub repository! I'm Alan Joshy Thomas, Final Year Computer Scie
 
 - 🔭 I'm currently working on developing a player similarity model in football.
 - 💻 I love coding and have experience in Java, Python, and R.
+- 🌱 I'm learning Apache Spark, Apache Airflow, and Cloud Architecture to delve deeper into big data processing and cloud-based solutions.
 - 📊 Data visualization and analysis excite me, have experience working with Tableau and Power BI.
 
 ## Contact Information
