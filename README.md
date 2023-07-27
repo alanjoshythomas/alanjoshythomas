@@ -1,9 +1,15 @@
-- 👋 Hi, I’m Alan Joshy Thomas.
-- 👀 I’m interested in data analytics, espcecially football related.
-- 🌱 I’m currently learning Python.
-- 📫 How to reach me? The bird app is the best place to find me.
+# Alan Joshy Thomas 
 
-<!---
-alanjoshythomas/alanjoshythomas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my GitHub repository! I'm Alan Joshy Thomas, Final Year Computer Science Engineering student at Dayananda Sagar University. I have a strong fascination for data and its transformative potential in shaping perceptions and decision-making. I am a footall nerd, follow the game beyond the playground to tactics and numbers. 
+
+## About Me
+
+- 🔭 I'm currently working on developing a player similarity model in football.
+- 💻 I love coding and have experience in Java, Python, and R.
+- 📊 Data visualization and analysis excite me, have experience working with Tableau and Power BI.
+
+## Contact Information
+
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/alanjoshythomas/) to connect, collaborate, or discuss anything related to data, coding, or tech.
+
+Happy coding! 🚀
